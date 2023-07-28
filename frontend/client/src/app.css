@@ -1,0 +1,16 @@
+.label {
+    font-size: 18px;
+    font-style: italic;
+    margin-right: 10px;
+}
+.date {
+    margin-left: 62px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+}
+.h1 {
+    color: coral;
+}
